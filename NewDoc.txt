@@ -1,0 +1,6 @@
+This is a new text doc
+
+
+Pushing this to Git now
+
+Thank You.
